@@ -1,9 +1,157 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "drinks": [
+    {
+      "id": 1,
+      "image-url": "https://le-moderato.com/cdn/shop/files/Designsanstitre_31_933x.png?v=1703235334",
+      "category": "wine",
+      "subcategory": "Red wine",
+      "brand": "moderato",
+      "name": "Le Rouge - Cuvée Révolutionnaire - Merlot-Tannat - sans alcool",
+      "description": "Le velouté classique du merlot et la structure du tannat, cépage emblématique de Gascogne pour un rouge sans alcool (<0,5%) équilibré et finement tannique. Servir à température à 18° ou légèrement rafraîchi. Parfait avec un carpaccio de bœuf, des lasagnes aux légumes, ou même un hachi parmentier des familles",
+      "price": 14.9
+    },
+
+    {
+      "id": 2,
+      "image-url": "https://le-moderato.com/cdn/shop/files/7_aa3f9398-db96-4e35-ac17-29d1b8fbc94a_933x.png?v=1702030967",
+      "category": "wine",
+      "subcategory": "White wine",
+      "brand": "moderato",
+      "name": "Le Blanc - Cuvée Révolutionnaire - Colombard - sans alcool",
+      "description": "Cépage typique de Gascogne, notre colombard donne un blanc sans alcool (<0,5%) très aromatique et légèrement acidulé, véritable identité de la région. Servir autour de 8°, parfait avec un ceviche, une salade de saison ou de la volaille aigre-douce",
+      "price": 14.9
+    },
+    {
+      "id": 3,
+      "image-url": "https://le-moderato.com/cdn/shop/files/SHOOTING0512_BULLESREVONOEL_1_02_BD_933x.jpg?v=1702029439",
+      "category": "wine",
+      "subcategory": "Sparkling wine",
+      "brand": "moderato",
+      "name": "Le Pétillant - Cuvée Révolutionnaire - Blanc de Noir - sans alcool",
+      "description": "Un pétillant sans alcool (<0,5%) unique, blanc de noir, issu du cépage emblématique merlot de la région de Bordeaux avec de la rondeur et de fines bulles acidulées. Servir bien frais entre 6 et 8°, parfait pour un apéritif sucré-salé et même avec un joli fondant au chocolat !",
+      "price": 16.9
+    },
+    {
+      "id": 4,
+      "image-url": "https://shop.pierre-chavin.com/2403-large_default/le-petit-etoile-cabernet-rose-sans-alcool-bio.jpg",
+      "category": "wine",
+      "subcategory": "Rosé wine",
+      "brand": "Pierre Chavin",
+      "name": "Le Petit Étoilé - Rosé Biologique - Chardonnay-Carbernet Sauvignon",
+      "description": "Le Petit Étoilé Rose est une cuvée biologique sans alcool. Elle est habillée d'une robe rose pâle aux reflets brillants. Au nez on retrouve des arômes fruités de baies rouges comme la groseille, le cassis et la framboise. Des notes florales et épicées harmonisent l'ensemble. La bouche aux arômes gourmands de pamplemousse rose est élégante et empreinte de fraîcheur. Élaboration : Après éraflage et foulage, une macération pelliculaire est effectuée à froid (4°C). La macération qui s'étend sur 8 heures est réalisée avant le pressurage afin d'extraire les composés bénéfiques du raisin comme les polyphénols, les tanins ... La complexité aromatique est obtenue par l'élevage sous forme d'infusions de pépins biologiques et de chêne français.",
+      "price": 7.6
+    },
+    {
+      "id": 5,
+      "image-url": "https://www.jnprspirits.com/cdn/shop/files/219_9880344d-eaca-41ea-b707-967e4f281d96_x600.jpg?v=1692201406",
+      "category": "spirit",
+      "subcategory": "Gin",
+      "brand": "JNPR",
+      "name": "JNPR N°1",
+      "description": "L'authentique : frais & herbacé. Un goût floral et rafraîchissant, sans aucun sucre. La note principale porte clairement sur les baies de genièvre, avec un côté frais et herbacé. Conseils de dégustation : 1/3 JNPR & 2/3 tonic (avec ou sans sucre), ou en cocktail. Idéal pour réaliser facilement des Gin tonic, Cosmopolitan, Sour… sans alcool, ou laissez libre court à votre créativité ! Les plus de JNPR : 1 bouteille = + de 15 cocktails, et plusieurs recettes incluses dans votre colis.",
+      "price": 29
+    },
+    {
+      "id": 6,
+      "image-url": "https://www.jnprspirits.com/cdn/shop/files/221_86d7f383-df2f-457f-b4c9-8758deaab811_x600.jpg?v=1692201519",
+      "category": "spirit",
+      "subcategory": "Tequila",
+      "brand": "JNPR",
+      "name": "JNPR N°3",
+      "description": "Le botanique : verveine & baies de genièvre. De beaux arômes de verveine rehaussés par une pointe de baies de genièvre. La feuille de verveine est plébiscitée pour son agréable parfum citronné. Certains y décèleront même un léger goût mentholé voire de mandarine. Conseils de dégustation : 1/3 JNPR & 2/3 tonic (avec ou sans sucre), ou en cocktail. Idéal pour réaliser des Gin tonic avec des saveurs d’agrumes, Paloma... sans alcool, ou laissez libre court à votre créativité ! Les plus de JNPR : 1 bouteille = + de 15 cocktails, et plusieurs recettes incluses dans votre colis.",
+      "price": 32
+    },
+    {
+      "id": 7,
+      "image-url": "https://www.jnprspirits.com/cdn/shop/files/232_x600.jpg?v=1692278374",
+      "category": "spirit",
+      "subcategory": "Vermouth",
+      "brand": "JNPR",
+      "name": "VRMH N°1",
+      "description": "BARTENDER SERIES : L'aromatique. Le goût des grands apéritifs italiens, sans l'alcool. Conseils de dégustation : allongé tout simplement d'eau pétillante, ou en cocktail. Idéal pour revisiter tous les classiques italiens : Negroni, Americano... sans alcool ! Les plus de JNPR : 1 bouteille = + de 15 cocktails, et 2 recettes incluses dans votre colis. À noter : la gamme Bartender Series, spécialement conçue pour la mixologie et dont fait partie VRMH n°1, contient du sucre. Après ouverture, à conserver au frais (4-10°C). ",
+      "price": 29
+    },
+    {
+      "id": 8,
+      "image-url": "https://www.jnprspirits.com/collections/cp-fr-products/products/fr-bttr-n-1-70-cl",
+      "category": "spirit",
+      "subcategory": "Bitter",
+      "brand": "JNPR",
+      "name": "BTTR N°1",
+      "description": "BARTENDER SERIES : L'incontournable. De beaux arômes de gentiane, de cannelle et d'orange amère, une longueur en bouche portée sur l'amertume. Le meilleur de l'Italie dans une boisson qui se révèle avec un simple trait d'eau gazeuse.",
+      "price": 29
+    },
+    {
+      "id": 9,
+      "image-url": "https://www.nonadrinks.com/cdn/shop/files/4_3dc2fe53-9372-457e-b000-d85e97c49ce2.png?v=1700059608",
+      "category": "spirit",
+      "subcategory": "gin",
+      "brand": "NONA",
+      "name": "NONA juin",
+      "description": "NONA June est la première boisson belge sans alcool qui rappelle le gin. C'est un mélange rafraîchissant et équilibré de 9 plantes médicinales à base de baies de genièvre et d'agrumes agrumes agrumes frais, avec une touche herbacée de basilic.",
+      "price": 29.9
+    },
+    {
+      "id": 10,
+      "image-url": "https://beerproject.be/cdn/shop/products/BRUSSELS-BEER-PROJECT_PICO-BELLO_MOOD_1080x.png?v=1671454683",
+      "category": "beer",
+      "subcategory": "Hazy IPA",
+      "brand": "Brussels Beer Project",
+      "name": "Pico Bello",
+      "description": "Brassée de manière 100% naturelle, avec un style contemporain, la Pico Bello n'a pas subi le processus industriel de désalcoolisation qui entraîne également la disparition de nombreux profils d'arômes. Il était hors de question d'abaisser le taux d'alcool d'une bière existante. Nous avons donc relèver le défi d'une bière artisanale sans alcool. La Pico Bello est une hazy zero IPA avec des arômes fruités, mais également une touche d'amertume et d'acidité qui se différencie des bières sans alcool sucrées produites par les brasseurs traditionnels. ",
+      "price": 2.3
+    },
+    {
+      "id": 11,
+      "image-url": "https://galliaparis.com/cdn/shop/products/SansAlcool_Portrait.jpg?height=900&v=1690185528",
+      "category": "beer",
+      "subcategory": "IPA",
+      "brand": "Gallia",
+      "name": "Gallia IPA sans alcool",
+      "description": "Une IPA sans alcool avec les Houblons Sorachi Ace et Sabro pour une explosion de notes d'aneth, de noix de coco et de fruits tropicaux. De quoi édulcorer vos pauses dej' et vos gueules de joie... Elle va vous étonner sans vous saouler!",
+      "price": 2.5
+    },
+    {
+      "id": 12,
+      "image-url": "https://www.gueuledejoie.com/wp-content/uploads/2017/02/Brooklyn-Lager.jpg",
+      "category": "beer",
+      "subcategory": "lager",
+      "brand": "Brooklyn",
+      "name": "Special Effects Lager",
+      "description": "Brooklyn Special Effects est une bière blonde sans alcool houblonnée avec un arôme piquant inattendu et une finale agréablement amère. La bière tire sa douceur dorée d’un houblonnage à cru avec les houblons Citra et Amarillo, une technique rarement utilisée dans les brasseries sans alcool.",
+      "price": 2.8
+    },
+    {
+      "id": 13,
+      "image-url": "https://www.gueuledejoie.com/wp-content/uploads/2021/12/PRODUITS-5-4.jpg.webp",
+      "category": "beer",
+      "subcategory": "IPA",
+      "brand": "Brooklyn",
+      "name": "Special Effects IPA",
+      "description": "La Special Effects IPA offre des saveurs et des arômes allant des fruits tropicaux au zeste de citron, pour finir avec une séduisante et délicate amertume. Cette bière sans alcool a tout le caractère houblonné d’une véritable IPA avec moins de 100 calories ce qui est plutôt cool.",
+      "price": 2.8
+    },
+    {
+      "id": 14,
+      "image-url": "https://www.brewdog.com/media/catalog/product/cache/eb360c13587b21a8ac6c611a2762b864/a/f/afbeers_pdp_update_1-1_punk3_1.0_6.png",
+      "category": "beer",
+      "subcategory": "IPA",
+      "brand": "Brewdog",
+      "name": "Punk AF",
+      "description": "Sans alcool, mais pas fade pour autant. La Punk AF tient ses promesses. Intense, riche en arômes, le tout sans une goutte d'alcool. Une bière 0 %, unique en son genre. Les arômes juteux de fruits tropicaux se mêlent à la perfection aux notes d'herbe et de pin sur une base maltée robuste. Une bière n'a pas besoin d'alcool pour être une bière. La Punk AF en est la preuve. Punk AF - La bière sans alcool révèle son côté Punk.",
+      "price": 1.9
+    },
+    {
+      "id": 15,
+      "image-url": "https://www.brewdog.com/media/catalog/product/cache/eb360c13587b21a8ac6c611a2762b864/b/r/brewdog_biere_artisanale_hazy_jane_sans_alcool_24_canettes_1.png",
+      "category": "beer",
+      "subcategory": "Hazy IPA",
+      "brand": "Brewdog",
+      "name": "Hazy AF",
+      "description": "La bière sans alcool prend un coup de jus. Et Hazy AF tient ses promesses. Toute la personnalité et les arômes, mais sans l'alcool. Découvrez la bière sans alcool la plus juteuse du coin. Les fruits tropicaux se mêlent aux notes herbacées. L'avoine et le blé font alliance pour plus de douceur. Arômes à bloc, pas d'alcool. ",
+      "price": 1.9
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+
+  "cocktails": [{ "id": 1, "body": "some comment", "postId": 1 }]
 }
