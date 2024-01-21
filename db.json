@@ -2,7 +2,7 @@
   "drinks": [
     {
       "id": 1,
-      "image-url": "https://le-moderato.com/cdn/shop/files/Designsanstitre_31_933x.png?v=1703235334",
+      "image_url": "https://le-moderato.com/cdn/shop/files/Designsanstitre_31_933x.png?v=1703235334",
       "category": "wine",
       "subcategory": "Red wine",
       "brand": "moderato",
@@ -13,7 +13,7 @@
 
     {
       "id": 2,
-      "image-url": "https://le-moderato.com/cdn/shop/files/7_aa3f9398-db96-4e35-ac17-29d1b8fbc94a_933x.png?v=1702030967",
+      "image_url": "https://le-moderato.com/cdn/shop/files/7_aa3f9398-db96-4e35-ac17-29d1b8fbc94a_933x.png?v=1702030967",
       "category": "wine",
       "subcategory": "White wine",
       "brand": "moderato",
@@ -23,7 +23,7 @@
     },
     {
       "id": 3,
-      "image-url": "https://le-moderato.com/cdn/shop/files/SHOOTING0512_BULLESREVONOEL_1_02_BD_933x.jpg?v=1702029439",
+      "image_url": "https://le-moderato.com/cdn/shop/files/SHOOTING0512_BULLESREVONOEL_1_02_BD_933x.jpg?v=1702029439",
       "category": "wine",
       "subcategory": "Sparkling wine",
       "brand": "moderato",
@@ -33,7 +33,7 @@
     },
     {
       "id": 4,
-      "image-url": "https://shop.pierre-chavin.com/2403-large_default/le-petit-etoile-cabernet-rose-sans-alcool-bio.jpg",
+      "image_url": "https://shop.pierre-chavin.com/2403-large_default/le-petit-etoile-cabernet-rose-sans-alcool-bio.jpg",
       "category": "wine",
       "subcategory": "Rosé wine",
       "brand": "Pierre Chavin",
@@ -43,7 +43,7 @@
     },
     {
       "id": 5,
-      "image-url": "https://www.jnprspirits.com/cdn/shop/files/219_9880344d-eaca-41ea-b707-967e4f281d96_x600.jpg?v=1692201406",
+      "image_url": "https://www.jnprspirits.com/cdn/shop/files/219_9880344d-eaca-41ea-b707-967e4f281d96_x600.jpg?v=1692201406",
       "category": "spirit",
       "subcategory": "Gin",
       "brand": "JNPR",
@@ -53,7 +53,7 @@
     },
     {
       "id": 6,
-      "image-url": "https://www.jnprspirits.com/cdn/shop/files/221_86d7f383-df2f-457f-b4c9-8758deaab811_x600.jpg?v=1692201519",
+      "image_url": "https://www.jnprspirits.com/cdn/shop/files/221_86d7f383-df2f-457f-b4c9-8758deaab811_x600.jpg?v=1692201519",
       "category": "spirit",
       "subcategory": "Tequila",
       "brand": "JNPR",
@@ -63,7 +63,7 @@
     },
     {
       "id": 7,
-      "image-url": "https://www.jnprspirits.com/cdn/shop/files/232_x600.jpg?v=1692278374",
+      "image_url": "https://www.jnprspirits.com/cdn/shop/files/232_x600.jpg?v=1692278374",
       "category": "spirit",
       "subcategory": "Vermouth",
       "brand": "JNPR",
@@ -73,7 +73,7 @@
     },
     {
       "id": 8,
-      "image-url": "https://www.jnprspirits.com/collections/cp-fr-products/products/fr-bttr-n-1-70-cl",
+      "image_url": "https://www.jnprspirits.com/collections/cp-fr-products/products/fr-bttr-n-1-70-cl",
       "category": "spirit",
       "subcategory": "Bitter",
       "brand": "JNPR",
@@ -83,7 +83,7 @@
     },
     {
       "id": 9,
-      "image-url": "https://www.nonadrinks.com/cdn/shop/files/4_3dc2fe53-9372-457e-b000-d85e97c49ce2.png?v=1700059608",
+      "image_url": "https://www.nonadrinks.com/cdn/shop/files/4_3dc2fe53-9372-457e-b000-d85e97c49ce2.png?v=1700059608",
       "category": "spirit",
       "subcategory": "gin",
       "brand": "NONA",
@@ -93,7 +93,7 @@
     },
     {
       "id": 10,
-      "image-url": "https://beerproject.be/cdn/shop/products/BRUSSELS-BEER-PROJECT_PICO-BELLO_MOOD_1080x.png?v=1671454683",
+      "image_url": "https://beerproject.be/cdn/shop/products/BRUSSELS-BEER-PROJECT_PICO-BELLO_MOOD_1080x.png?v=1671454683",
       "category": "beer",
       "subcategory": "Hazy IPA",
       "brand": "Brussels Beer Project",
@@ -103,7 +103,7 @@
     },
     {
       "id": 11,
-      "image-url": "https://galliaparis.com/cdn/shop/products/SansAlcool_Portrait.jpg?height=900&v=1690185528",
+      "image_url": "https://galliaparis.com/cdn/shop/products/SansAlcool_Portrait.jpg?height=900&v=1690185528",
       "category": "beer",
       "subcategory": "IPA",
       "brand": "Gallia",
@@ -113,7 +113,7 @@
     },
     {
       "id": 12,
-      "image-url": "https://www.gueuledejoie.com/wp-content/uploads/2017/02/Brooklyn-Lager.jpg",
+      "image_url": "https://www.gueuledejoie.com/wp-content/uploads/2017/02/Brooklyn-Lager.jpg",
       "category": "beer",
       "subcategory": "lager",
       "brand": "Brooklyn",
@@ -123,7 +123,7 @@
     },
     {
       "id": 13,
-      "image-url": "https://www.gueuledejoie.com/wp-content/uploads/2021/12/PRODUITS-5-4.jpg.webp",
+      "image_url": "https://www.gueuledejoie.com/wp-content/uploads/2021/12/PRODUITS-5-4.jpg.webp",
       "category": "beer",
       "subcategory": "IPA",
       "brand": "Brooklyn",
@@ -133,7 +133,7 @@
     },
     {
       "id": 14,
-      "image-url": "https://www.brewdog.com/media/catalog/product/cache/eb360c13587b21a8ac6c611a2762b864/a/f/afbeers_pdp_update_1-1_punk3_1.0_6.png",
+      "image_url": "https://www.brewdog.com/media/catalog/product/cache/eb360c13587b21a8ac6c611a2762b864/a/f/afbeers_pdp_update_1-1_punk3_1.0_6.png",
       "category": "beer",
       "subcategory": "IPA",
       "brand": "Brewdog",
@@ -143,7 +143,7 @@
     },
     {
       "id": 15,
-      "image-url": "https://www.brewdog.com/media/catalog/product/cache/eb360c13587b21a8ac6c611a2762b864/b/r/brewdog_biere_artisanale_hazy_jane_sans_alcool_24_canettes_1.png",
+      "image_url": "https://www.brewdog.com/media/catalog/product/cache/eb360c13587b21a8ac6c611a2762b864/b/r/brewdog_biere_artisanale_hazy_jane_sans_alcool_24_canettes_1.png",
       "category": "beer",
       "subcategory": "Hazy IPA",
       "brand": "Brewdog",
