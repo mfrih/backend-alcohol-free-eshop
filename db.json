@@ -3,7 +3,7 @@
     {
       "id": 1,
       "image_url": "https://le-moderato.com/cdn/shop/files/Designsanstitre_31_933x.png?v=1703235334",
-      "category": "wine",
+      "category": "wines",
       "subcategory": "Red wine",
       "brand": "moderato",
       "name": "Le Rouge - Cuvée Révolutionnaire - Merlot-Tannat - sans alcool",
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "image_url": "https://le-moderato.com/cdn/shop/files/7_aa3f9398-db96-4e35-ac17-29d1b8fbc94a_933x.png?v=1702030967",
-      "category": "wine",
+      "category": "wines",
       "subcategory": "White wine",
       "brand": "moderato",
       "name": "Le Blanc - Cuvée Révolutionnaire - Colombard - sans alcool",
@@ -24,7 +24,7 @@
     {
       "id": 3,
       "image_url": "https://le-moderato.com/cdn/shop/files/SHOOTING0512_BULLESREVONOEL_1_02_BD_933x.jpg?v=1702029439",
-      "category": "wine",
+      "category": "wines",
       "subcategory": "Sparkling wine",
       "brand": "moderato",
       "name": "Le Pétillant - Cuvée Révolutionnaire - Blanc de Noir - sans alcool",
@@ -34,7 +34,7 @@
     {
       "id": 4,
       "image_url": "https://shop.pierre-chavin.com/2403-large_default/le-petit-etoile-cabernet-rose-sans-alcool-bio.jpg",
-      "category": "wine",
+      "category": "wines",
       "subcategory": "Rosé wine",
       "brand": "Pierre Chavin",
       "name": "Le Petit Étoilé - Rosé Biologique - Chardonnay-Carbernet Sauvignon",
@@ -44,7 +44,7 @@
     {
       "id": 5,
       "image_url": "https://www.jnprspirits.com/cdn/shop/files/219_9880344d-eaca-41ea-b707-967e4f281d96_x600.jpg?v=1692201406",
-      "category": "spirit",
+      "category": "spirits",
       "subcategory": "Gin",
       "brand": "JNPR",
       "name": "JNPR N°1",
@@ -54,7 +54,7 @@
     {
       "id": 6,
       "image_url": "https://www.jnprspirits.com/cdn/shop/files/221_86d7f383-df2f-457f-b4c9-8758deaab811_x600.jpg?v=1692201519",
-      "category": "spirit",
+      "category": "spirits",
       "subcategory": "Tequila",
       "brand": "JNPR",
       "name": "JNPR N°3",
@@ -64,7 +64,7 @@
     {
       "id": 7,
       "image_url": "https://www.jnprspirits.com/cdn/shop/files/232_x600.jpg?v=1692278374",
-      "category": "spirit",
+      "category": "spirits",
       "subcategory": "Vermouth",
       "brand": "JNPR",
       "name": "VRMH N°1",
@@ -74,7 +74,7 @@
     {
       "id": 8,
       "image_url": "https://www.jnprspirits.com/collections/cp-fr-products/products/fr-bttr-n-1-70-cl",
-      "category": "spirit",
+      "category": "spirits",
       "subcategory": "Bitter",
       "brand": "JNPR",
       "name": "BTTR N°1",
@@ -84,7 +84,7 @@
     {
       "id": 9,
       "image_url": "https://www.nonadrinks.com/cdn/shop/files/4_3dc2fe53-9372-457e-b000-d85e97c49ce2.png?v=1700059608",
-      "category": "spirit",
+      "category": "spirits",
       "subcategory": "gin",
       "brand": "NONA",
       "name": "NONA juin",
@@ -94,7 +94,7 @@
     {
       "id": 10,
       "image_url": "https://beerproject.be/cdn/shop/products/BRUSSELS-BEER-PROJECT_PICO-BELLO_MOOD_1080x.png?v=1671454683",
-      "category": "beer",
+      "category": "beers",
       "subcategory": "Hazy IPA",
       "brand": "Brussels Beer Project",
       "name": "Pico Bello",
@@ -104,7 +104,7 @@
     {
       "id": 11,
       "image_url": "https://galliaparis.com/cdn/shop/products/SansAlcool_Portrait.jpg?height=900&v=1690185528",
-      "category": "beer",
+      "category": "beers",
       "subcategory": "IPA",
       "brand": "Gallia",
       "name": "Gallia IPA sans alcool",
@@ -114,7 +114,7 @@
     {
       "id": 12,
       "image_url": "https://www.gueuledejoie.com/wp-content/uploads/2017/02/Brooklyn-Lager.jpg",
-      "category": "beer",
+      "category": "beers",
       "subcategory": "lager",
       "brand": "Brooklyn",
       "name": "Special Effects Lager",
@@ -124,7 +124,7 @@
     {
       "id": 13,
       "image_url": "https://www.gueuledejoie.com/wp-content/uploads/2021/12/PRODUITS-5-4.jpg.webp",
-      "category": "beer",
+      "category": "beers",
       "subcategory": "IPA",
       "brand": "Brooklyn",
       "name": "Special Effects IPA",
@@ -134,7 +134,7 @@
     {
       "id": 14,
       "image_url": "https://www.brewdog.com/media/catalog/product/cache/eb360c13587b21a8ac6c611a2762b864/a/f/afbeers_pdp_update_1-1_punk3_1.0_6.png",
-      "category": "beer",
+      "category": "beers",
       "subcategory": "IPA",
       "brand": "Brewdog",
       "name": "Punk AF",
@@ -144,7 +144,7 @@
     {
       "id": 15,
       "image_url": "https://www.brewdog.com/media/catalog/product/cache/eb360c13587b21a8ac6c611a2762b864/b/r/brewdog_biere_artisanale_hazy_jane_sans_alcool_24_canettes_1.png",
-      "category": "beer",
+      "category": "beers",
       "subcategory": "Hazy IPA",
       "brand": "Brewdog",
       "name": "Hazy AF",
